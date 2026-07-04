@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**parthshende16/parthshende16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Parth**, a Computer Science student at VIT Vellore.
 
-Here are some ideas to get you started:
+I enjoy building full-stack applications, experimenting with AI, and exploring how technology intersects with finance. Most of what you'll find here are projects that helped me learn by building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on writing cleaner code, improving my DSA skills, and shipping projects that solve real problems.
+
+---
+
+## 🚀 Currently Working On
+
+- 🧠 AI & Machine Learning projects
+- ⛓️ Full-stack Web3 applications
+- 📊 Data Analytics & Visualization
+- 💻 LeetCode / DSA for placements
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+`Python` `JavaScript` `TypeScript` `C++` `Java` `Solidity`
+
+**Frontend**
+
+`React` `Next.js` `Tailwind CSS`
+
+**Backend**
+
+`Node.js` `Express.js`
+
+**Databases**
+
+`MongoDB` `Firebase` `PostgreSQL`
+
+**Blockchain**
+
+`Polygon` `Hardhat` `Ethers.js`
+
+**Tools**
+
+`Git` `GitHub` `Docker`
+`Figma` `Postman`
+`VS Code`
+
+---
+
+## 📌 Featured Projects
+
+### NFTMarket
+A decentralized NFT marketplace built on Polygon where users can mint, list, buy, and manage NFTs.
+
+### EventSphere
+College event management platform with ticket booking, QR verification, and admin dashboard.
+
+### FoodLink
+Platform connecting food donors with NGOs and volunteers to reduce food waste.
+
+---
+
+## 📫 Reach Me
+
+📧 parth.shende123@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/parthshende16/
+
+
