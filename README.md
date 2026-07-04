@@ -13,7 +13,6 @@ Currently focused on writing cleaner code, improving my DSA skills, and shipping
 - 🧠 AI & Machine Learning projects
 - ⛓️ Full-stack Web3 applications
 - 📊 Data Analytics & Visualization
-- 💻 LeetCode / DSA for placements
 
 ---
 
